@@ -2,6 +2,6 @@
 
 ## How to auto login facebook and get a screenshot using python3 and selenium
 
-First, you should download [firefox driver](https://github.com/mozilla/geckodriver/releases).
-Second, open the fb.py and input your facebook account and password, then change the 'executable_path' with your directory.
-Finally, use python3 run it, and you can login and get a screen shot
+First, you should download [firefox driver](https://github.com/mozilla/geckodriver/releases).\n
+Second, open the fb.py and input your facebook account and password, then change the 'executable_path' with your directory.\n
+Finally, use python3 run it, and you can login and get a screenshot.
